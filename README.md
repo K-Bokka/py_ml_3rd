@@ -13,6 +13,8 @@ Create new project from PyCharm
 ## 3rd step
 Check conda env & install libraries from terminal
 ```console
+$ conda create -n python_ml python=3.9
+$ conda activate python_ml
 $ conda env list
 # conda environments:
 #
