@@ -31,4 +31,13 @@ Get dataset from keggle
 ## 5th step
 Create notebooks from PyCharm
 
+## 6th step
+This project is using local package `pm3`.  
+Add the package to interpreter Paths as follows
+
+> - Project -> Python Interpreter  
+> - Open interpreter select menu. And select `Shaow All`.  
+> - Click icon. Tips is `Show paths for the selected interpreter`.
+> - Add Path `<repository root>/notebooks`
+
 ## Enjoy! ML
