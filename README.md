@@ -21,6 +21,7 @@ $ conda env list
 base                     ~/opt/miniconda3
 python_ml             *  ~/opt/miniconda3/envs/python_ml
 $ conda install numpy scipy scikit-learn matplotlib pandas pydotplus nltk
+$ conda install -c conda-forge mlxtend
 $ brew install graphviz
 ```
 
